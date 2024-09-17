@@ -4,6 +4,6 @@ Komponen yang digunakan :
   2.Sensor DHT22
   3.Sensor Soil Moisturize
   4.Sensor NPK
-  5.Buzzer
+  5.Buzze
   6.Water Flow
   7.Water Pump
